@@ -1,1 +1,1 @@
-# Stock-Photo-Generator
+# SprinAi-Project
